@@ -3,7 +3,7 @@ name: N1-OpenWrt
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 21 * * 4
+    - cron: 0 20 * * 4
   push:
     branches:
       - master
