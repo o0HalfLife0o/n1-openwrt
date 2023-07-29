@@ -28,6 +28,7 @@ CONFIG_PACKAGE_bsdtar=y
 CONFIG_PACKAGE_btrfs-progs=y
 CONFIG_PACKAGE_bzip2=y
 CONFIG_PACKAGE_chattr=y
+CONFIG_PACKAGE_coreutils-base64=y
 CONFIG_PACKAGE_coreutils-nohup=y
 CONFIG_PACKAGE_ddns-scripts=y
 CONFIG_PACKAGE_ddns-scripts_services=y
