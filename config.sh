@@ -45,6 +45,8 @@ CONFIG_PACKAGE_f2fsck=y
 CONFIG_PACKAGE_fdisk=y
 CONFIG_PACKAGE_gawk=y
 CONFIG_PACKAGE_getopt=y
+CONFIG_PACKAGE_git=y
+CONFIG_PACKAGE_git-http=y
 # CONFIG_PACKAGE_haproxy is not set
 CONFIG_PACKAGE_htop=y
 # CONFIG_PACKAGE_hysteria is not set
@@ -197,6 +199,10 @@ CONFIG_PACKAGE_perlbase-unicore=y
 CONFIG_PACKAGE_perlbase-utf8=y
 CONFIG_PACKAGE_perlbase-xsloader=y
 CONFIG_PACKAGE_pv=y
+CONFIG_PACKAGE_python3=y
+CONFIG_PACKAGE_python3-pip=y
+CONFIG_PACKAGE_python3-aiohttp=y
+CONFIG_PACKAGE_python3-yaml=y
 # CONFIG_PACKAGE_shadowsocks-libev-ss-local is not set
 # CONFIG_PACKAGE_shadowsocks-libev-ss-redir is not set
 CONFIG_PACKAGE_smartdns=y
